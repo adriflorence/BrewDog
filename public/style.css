@@ -1,0 +1,29 @@
+body {
+  /* background-image: url('img/bg.jpg'); */
+  background-color: #32B1D4;
+  background-size: cover;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+select {
+  height: 30px;
+  border: 1px solid black;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+#container {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 30px;
+}
+
+#beer-info {
+  padding: 20px;
+}
+
+img {
+  max-height: 400px;
+}
